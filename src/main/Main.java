@@ -63,7 +63,7 @@ public class Main {
                     for(int j = x2; j <=x1; j++) {
                         for(int i = 0 ; i < 10 ; i++ ){
                             Point temp = cars.get(i).possition;
-                            if(temp.x == j && temp.y == y1) {
+                            if(temp.x == j && temp.y = y1) {
                                 count++;
                             }
                         }
